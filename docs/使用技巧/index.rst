@@ -3,4 +3,6 @@
 
 .. toctree::
 
-   USB转串口.rst
+    USB转串口.rst
+    访问STM32寄存器.rst
+
