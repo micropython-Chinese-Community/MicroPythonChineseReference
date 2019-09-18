@@ -8,8 +8,8 @@ MicroPython 从入门到进阶中文教程
 
 .. toctree::
    :maxdepth: 3
-   :caption: Contents:
 
+    使用技巧/index.rst
 
 
 Indices and tables
