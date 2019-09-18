@@ -4,10 +4,9 @@
    contain the root `toctree` directive.
 
 MicroPython 从入门到进阶中文教程
-==============================
+========================================
 
 .. toctree::
-   :maxdepth: 3
 
     使用技巧/index.rst
 
